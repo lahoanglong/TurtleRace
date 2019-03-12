@@ -7,3 +7,5 @@ Nhóm 2, NMCNTT 2, 18CLC6 @ HCMUS
 	☐ Hiệu ứng chiến thắng
 	☐ (Các) Test runs (`i.e. tiết mục tìm bug bằng cách phá file SETTINGS`)
 	☐ ???
+
+Long la
